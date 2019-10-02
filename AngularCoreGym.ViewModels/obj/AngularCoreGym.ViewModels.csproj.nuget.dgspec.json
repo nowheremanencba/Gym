@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyectos\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularCoreGym\\AngularCoreGym.ViewModels\\AngularCoreGym.ViewModels.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularCoreGym\\AngularCoreGym.ViewModels\\AngularCoreGym.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularCoreGym\\AngularCoreGym.ViewModels\\AngularCoreGym.ViewModels.csproj",
+        "projectName": "AngularCoreGym.ViewModels",
+        "projectPath": "C:\\Proyectos\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularCoreGym\\AngularCoreGym.ViewModels\\AngularCoreGym.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Cristian.Developer\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularCoreGym\\AngularCoreGym.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cristian.Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
